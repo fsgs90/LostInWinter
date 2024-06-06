@@ -9,10 +9,14 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: AN_Fir_Branch
   m_Shader: {fileID: 4800000, guid: 0154318cd2c5a3747a66420b5d885dd5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _COLOR2ENABLE_ON
   - _COLOR2OVERLAYTYPE_VERTEX_POSITION_BASED
   - _FIXTHEBASEOFFOLIAGE_ON
   - _SNOWOVERLAYTYPE_UV_BASED
+  - _SNOW_ON
   - _WIND_ON
   m_InvalidKeywords:
   - _COLOR2ENABLE1_ON
@@ -26,6 +30,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -115,13 +120,13 @@ Material:
     - _BumpScale: 1
     - _COLOR2: 0
     - _Color2: 0
-    - _Color2Enable: 0
+    - _Color2Enable: 1
     - _Color2Enable1: 1
     - _Color2Fade: 0.8
     - _Color2Fade1: -0.6
     - _Color2Int: 0
     - _Color2Intensity: 1
-    - _Color2Level: -0.24
+    - _Color2Level: -4.21
     - _Color2Level1: 0.7
     - _Color2OverlayType: 0
     - _Color2Power: 0
@@ -146,13 +151,13 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SNOW: 0
+    - _SNOW: 1
     - _Smoothness: 0.07
     - _Smoothness1: 0
     - _SmoothnessTextureChannel: 0
     - _Snow: 0
     - _Snow1: 0
-    - _SnowAmount: 0.911
+    - _SnowAmount: 0.15
     - _SnowAmount1: 0.5
     - _SnowFade: 0.106
     - _SnowLevel: 0
@@ -185,10 +190,11 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 0.13867459, g: 0.46099997, b: 0.27734926, a: 0}
-    - _Color2: {r: 0.15972927, g: 0.4433961, b: 0.044339456, a: 0}
+    - _Color2: {r: 0.84228337, g: 0.86415094, b: 0.8331719, a: 0}
     - _Color3: {r: 0, g: 0, b: 0, a: 0}
     - _CoverageColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SnowColor: {r: 0.51693714, g: 0.5647059, b: 0, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
