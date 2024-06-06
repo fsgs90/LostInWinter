@@ -6,28 +6,28 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/CombatDEMO.unity
+    path: Assets/Scenes/Prototype/CombatDEMO.unity
     guid: 0a70db1e6c424134badd62df35f24077
   - enabled: 1
-    path: Assets/Scenes/DistractDEMO.unity
+    path: Assets/Scenes/Prototype/DistractDEMO.unity
     guid: e9379ade8ba19da4b996aa53d982163c
   - enabled: 1
-    path: Assets/Scenes/HealDEMO.unity
+    path: Assets/Scenes/Prototype/HealDEMO.unity
     guid: 5aa3e73f8da63ae4083b60289bcb5a79
   - enabled: 1
-    path: Assets/Scenes/MovementDemo.unity
+    path: Assets/Scenes/Prototype/MovementDemo.unity
     guid: 5fa5086ff7a2f0945b9bd5d382c8c7c7
   - enabled: 1
-    path: Assets/Scenes/PatrolDEMO.unity
+    path: Assets/Scenes/Prototype/PatrolDEMO.unity
     guid: 34b3ae38a81affc4ea54205d7f37bc58
   - enabled: 1
-    path: Assets/Scenes/StealthDEMO.unity
+    path: Assets/Scenes/Prototype/StealthDEMO.unity
     guid: 79d7bd2c849dc774dac6510fd570519d
   - enabled: 1
-    path: Assets/Scenes/TransformationDEMO.unity
+    path: Assets/Scenes/Prototype/TransformationDEMO.unity
     guid: 54d0395ac65309b4888eddf6b63f6404
   - enabled: 1
-    path: Assets/Scenes/SpiritualTransformationDEMO.unity
+    path: Assets/Scenes/Prototype/SpiritualTransformationDEMO.unity
     guid: 8a952b0a45945e947887be9c73117aa9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
