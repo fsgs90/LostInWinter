@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdf9fd42c6665a045bf5d894cf016f5a
+labels:
+- AllCreature
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190336
+  packageName: Realistic Wolf
+  packageVersion: 3.9
+  assetPath: Assets/Malbers Animations/Common/Shaders/HDRP_MalbersShaders 2020.unitypackage
+  uploadId: 625019

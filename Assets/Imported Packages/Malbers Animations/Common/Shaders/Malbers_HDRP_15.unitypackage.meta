@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1dd27e2086a680b42a6700be865b90f2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148877
+  packageName: Animal Controller (Malbers Character Controller)
+  packageVersion: 1.4.4b
+  assetPath: Assets/Malbers Animations/Common/Shaders/Malbers_HDRP_15.unitypackage
+  uploadId: 655941

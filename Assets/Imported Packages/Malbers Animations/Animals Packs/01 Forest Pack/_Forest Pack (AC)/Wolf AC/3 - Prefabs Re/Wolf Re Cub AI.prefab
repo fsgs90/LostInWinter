@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7800863030375026564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 970741605531951674, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: onEnable.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293847951606918284, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: Events.Array.data[0].Response.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661087435591426895, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4225929373705586111, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_Name
+      value: Wolf Re Cub
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4227155046604391241, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4965766461302439337, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5607905051389758662, guid: 467e524535c3be24dad685e6dd43fb86,
+        type: 3}
+      propertyPath: OnDisableEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1294172086301480334, guid: 467e524535c3be24dad685e6dd43fb86, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 467e524535c3be24dad685e6dd43fb86, type: 3}
